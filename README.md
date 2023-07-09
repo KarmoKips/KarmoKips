@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarmoKips
 - 👀 I’m interested in learning Python and automating processes
-- 🌱 I’m currently learning Python on my onw
+- 🌱 Please see some done projects
 
 <!---
 KarmoKips/KarmoKips is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
