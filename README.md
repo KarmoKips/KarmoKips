@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KarmoKips
-- 👀 I’m interested in learning Python and automating processes
+- 👀 I’m interested in learning Python and automating processes in the work i'm doing. To complete the project i have been using ChatGPT to help me quickly solve the problems i had.
 - 🌱 Please see some done projects
 
 <!---
